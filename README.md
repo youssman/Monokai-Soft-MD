@@ -4,12 +4,12 @@ Monokai-Soft MD
 A Sublime Text Color Theme suited for [Material Design Theme](https://github.com/equinusocio/material-theme)
 
 ## Screenshots
-![Monokai Soft MD Theme](https://raw.githubusercontent.com/youssman/Monokai-Soft/master/Screenshot.png)
-![Monokai Soft MD Theme](https://raw.githubusercontent.com/youssman/Monokai-Soft/master/Screenshot2.png)
+![Monokai Soft MD Theme](https://raw.githubusercontent.com/youssman/Monokai-Soft-MD/master/Screenshot.png)
+![Monokai Soft MD Theme](https://raw.githubusercontent.com/youssman/Monokai-Soft-MD/master/Screenshot2.png)
 
 ## Preview 
 
-You can see a live preview [here](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/youssman/Monokai-Soft/master/Monokai-Soft-MD.tmTheme) and try different languages/code snippets
+You can see a live preview [here](http://tmtheme-editor.herokuapp.com/#!/editor/url/https://raw.githubusercontent.com/youssman/Monokai-Soft-MD/master/Monokai-Soft-MD.tmTheme) and try different languages/code snippets
 
 ## Installation
 
